@@ -1,7 +1,7 @@
 import styles from './AppViewer.module.css'
 const AppViewer = () => {
   return (
-    <div>AppViewer</div>
+    <div className={styles.avContainer}>AppViewer</div>
   )
 }
 
